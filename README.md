@@ -7,6 +7,7 @@ This dataset is available in [kaggle](https://www.kaggle.com/amiralimadadi/tehra
 ## Prerequisites
 I use some famous python libraries like *numpy*, *pandas*, *sklearn* and *seaborn*. In order to do some specific activies, I have to use *unidecode,bidi.algorithm and arabic_reshaper*.
 
+
 **Tip** The instructio of *!pip install ...* is written in the notebook to ensure that all libraries are installed in the destination machine.
 
 ## Files
